@@ -1,1 +1,16 @@
+{
+    "description": "VOX Dental Clinic - Dental implants and Hollywood smile",
+    "domain": "owns.it.com",
+    "subdomain": "voxclinic",
 
+    "owner": {
+        "repo": "https://github.com/t92011699-sudo/vox-dental-clinic",
+        "email": "voxdentalclinic@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "vox-dental-clinic.vercel.app"
+    },
+
+    "proxied": false
+}
